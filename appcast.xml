@@ -3,6 +3,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Daylight 1.0.0-dev.11</title>
+      <sparkle:version>20261027190915</sparkle:version>
+      <sparkle:shortVersionString>1.0.0-dev.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 27 Oct 2026 19:11:35 +0000</pubDate>
+      <description>A signed and notarized Daylight development update.</description>
+      <enclosure url="https://github.com/ankur-sarda/daylight-updates/releases/download/v1.0.0-dev.11/Daylight-1.0.0-dev.11-macOS.zip" length="25847736" type="application/octet-stream" sparkle:edSignature="3bVKf8u4UfqQm0Jvmx3drml9PuMjoNSIN2DDbfZwXElqZpcvUPHmQ4wnrDpcfePdvOFRRfmEdupsVAOTL7G0AA=="></enclosure>
+    </item>
+    <item>
       <title>Daylight 1.0.0-dev.9</title>
       <sparkle:version>20261027190159</sparkle:version>
       <sparkle:shortVersionString>1.0.0-dev.9</sparkle:shortVersionString>
@@ -16,6 +25,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Signed macOS development releases of Daylight.</description>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: mUJq60KzMHpPboXqc8G1VR46GeprFs/GJfTqtSG2IqE2eDTL+vPhC34f/zfTcDkt9Z6aHzw0wqsTShllDmYqDA==
-length: 1306
+edSignature: uTlT9YG4k/qstZuzbVlGsxQ/9Qe4l7NM4GgJOgar5LmO/74bYf/rSXkV4muU69ikc9LpaomU3gURtQvWB2Y9Bw==
+length: 2027
 -->
