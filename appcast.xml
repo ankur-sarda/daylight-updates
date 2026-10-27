@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss version="2.0"><channel><title>Daylight updates</title><link>https://github.com/ankur-sarda/daylight-updates</link><description>Signed macOS development releases of Daylight.</description></channel></rss><!-- sparkle-signatures:
+edSignature: iRxysSf9GajJhzV+moz3kPfIrRVxF0W2g3c3KGOsIa0VkJAb3m4JE37Mw4SRFaTm5/c+axZHFDgzVv6knqOrDg==
+length: 499
+-->
